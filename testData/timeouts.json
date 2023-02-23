@@ -1,0 +1,9 @@
+{
+    "allScriptTimeout" : 1740000,
+    "pageNavigation" : 180000,
+    "element" : 90000,
+    "loop":10000,
+    "tmpText":5000,
+    "events" : 150000
+
+}
